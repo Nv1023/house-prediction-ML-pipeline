@@ -82,6 +82,13 @@ Depending on the problem type, the following metrics are used:
    ```bash
    git clone https://github.com/Nv1023/house-prediction-ML-pipeline.git
 
+---
+
+## Dataset used to this project
+https://www.kaggle.com/competitions/mlp-term-3-2025-kaggle-assignment-1/data
+
+---
+
 👤 Author
 
 Nagavengadeshwaran S
